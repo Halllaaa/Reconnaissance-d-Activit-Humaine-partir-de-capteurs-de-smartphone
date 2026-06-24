@@ -8,8 +8,11 @@ env/
 # Local raw dataset downloads/extractions
 data/
 
-# Personal study/explanation drafts
-# (Now included in the repo - these are part of documentation)
+# Personal study/explanation drafts - not pushed to repo
+report.md
+final_report_beginner_friendly.md
+oral_presentation_notes.md
+step_by_step_explanation.md
 
 # OS/editor noise
 .DS_Store
